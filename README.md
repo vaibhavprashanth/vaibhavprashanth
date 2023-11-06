@@ -12,9 +12,11 @@ I'm a 2x international gold medalist in Taekwondo and a national level gold meda
 
 ```javascript
 const vaibh = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  Programming Languages: [Python, C++, C]
+  Web Development: [HTML5, Bootstrap, Javascript, CSS, MongoDB, Node.js, React.js, Expressjs, Aframe, AR.js, Flask]
+  Data Science: [Matplotlib, NumPy, MATLAB, Pandas, Seaborn, Statsmodels.api]
+  Machine Learning: [PyTorch, TensorFlow, Scikit-learn, Keras]
+  Tools and Software: [Vott, Insomnia, Git, SQL]
 }
 ```
 
