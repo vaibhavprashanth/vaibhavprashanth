@@ -1,4 +1,5 @@
 <h2> Hi, I'm P Vaibhav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480">
 <p><em>3rd year student at PES University</br> 
 I have experience interning at Accure Inc, Cisco ThingQubator, cRAIS, IEEE CS, and VizardLab.</br> 
 My research interests lie in computer vision, image processing, machine learning, data science, natural language processing, and related fields.</br> 
