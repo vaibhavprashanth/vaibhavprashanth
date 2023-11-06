@@ -6,10 +6,10 @@ My research interests lie in computer vision, image processing, machine learning
 I'm a 2x international gold medalist in Taekwondo and a national level gold medalist in Karate 🥋.</br> 
 </em></p>
 
-[![Linkedin: Vaibhav Prashanth](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-prashanth-2a33731b1/https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vaibhav-prashanth-2a33731b1/)
+[![Linkedin: Vaibhav Prashanth](https://img.shields.io/badge/-vaibhavprashanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-prashanth-2a33731b1/https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vaibhav-prashanth-2a33731b1/)
 
 
-A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const vaibh = {
