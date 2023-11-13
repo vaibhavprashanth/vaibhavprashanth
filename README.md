@@ -9,7 +9,7 @@ I'm a 2x international gold medalist in Taekwondo and a national level gold meda
 [![Linkedin: Vaibhav Prashanth](https://img.shields.io/badge/-vaibhavprashanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-prashanth-2a33731b1/https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vaibhav-prashanth-2a33731b1/)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...
+<h3>A little more about me... </h3>
 
 ```javascript
 const vaibh = {
@@ -21,6 +21,6 @@ const vaibh = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people and connecting :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people so feel free to get in contact :)</em>
 
 ---
