@@ -1,6 +1,6 @@
 <h2> Hi, I'm P Vaibhav! 👨‍💻 </h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em>3rd year student at PES University</br> 
+<p><em>3rd year student studying Computer Science at PES University</br> 
 I have experience interning at Accure Inc, Cisco ThingQubator, cRAIS, IEEE CS, and VizardLab.</br> 
 My research interests lie in computer vision, image processing, machine learning, data science, natural language processing, and related fields.</br> 
 I'm a 2x international gold medalist in Taekwondo and a national level gold medalist in Karate 🥋.</br> 
